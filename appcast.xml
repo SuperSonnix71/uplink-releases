@@ -6,6 +6,13 @@
     <description>Uplink updates</description>
     <language>en</language>
     <item>
+      <title>Uplink 1.0.2</title>
+      <pubDate>Mon, 07 Sep 2026 22:08:27 +0000</pubDate>
+      <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://supersonnix71.github.io/uplink-releases/release-notes/v1.0.2.md</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/SuperSonnix71/uplink-releases/releases/download/v1.0.2/Uplink-1.0.2.dmg" length="16185978" type="application/octet-stream" sparkle:version="7" sparkle:shortVersionString="1.0.2" sparkle:edSignature="YwQnAzu4rLDJXRWivwc7NyAuyhHC6vSW1G/HZGiNwCprzPWUv31HyCgK1nu22A7M04kHWLUlDCneli08Gu/ECw==" sparkle:installationType="package"/>
+    </item>
+    <item>
       <title>Uplink 1.0.1</title>
       <pubDate>Mon, 07 Sep 2026 21:14:30 +0000</pubDate>
       <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
