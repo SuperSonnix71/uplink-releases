@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Uplink</title>
     <link>https://github.com/SuperSonnix71/uplink-releases</link>
     <description>Uplink updates</description>
     <language>en</language>
-  </channel>
+  <item><title>Uplink 1.0.0</title><pubDate>Mon, 07 Sep 2026 20:12:46 +0000</pubDate><sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion><sparkle:releaseNotesLink>https://supersonnix71.github.io/uplink-releases/release-notes/v1.0.0.md</sparkle:releaseNotesLink><enclosure url="https://github.com/SuperSonnix71/uplink-releases/releases/download/v1.0.0/Uplink-1.0.0.dmg" length="16182591" type="application/octet-stream" sparkle:version="5" sparkle:shortVersionString="1.0.0" sparkle:edSignature="M6DAM7ercqlGd6mBHwjgO4fhjLtZIU8wpaF/DzYoRvsqASeyrs9FPbQUe4rKuw/DFN+/OymlQAWNg58TgYbuBg==" sparkle:installationType="package"/></item></channel>
 </rss>
