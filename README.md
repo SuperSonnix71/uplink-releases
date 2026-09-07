@@ -5,7 +5,7 @@
 <h1 align="center">Uplink</h1>
 
 <p align="center">
-  <a href="release-notes/v1.0.0.md"><img src="https://img.shields.io/badge/version-1.0.0-007AFF" alt="Version 1.0.0"></a>
+  <a href="release-notes/v1.0.1.md"><img src="https://img.shields.io/badge/version-1.0.1-007AFF" alt="Version 1.0.1"></a>
   <img src="https://img.shields.io/badge/language-Swift-F05138?logo=swift&amp;logoColor=white" alt="Language Swift">
   <img src="https://img.shields.io/badge/macOS-15.4%2B-333333?logo=apple&amp;logoColor=white" alt="Requires macOS 15.4 or later">
 </p>
@@ -22,7 +22,9 @@ The bundled components keep their own licences. See the [FUSE T terms](https://g
 
 ## Install
 
-Download [Uplink 1.0.0](https://github.com/SuperSonnix71/uplink-releases/releases/download/v1.0.0/Uplink-1.0.0.dmg) or read the [release notes](release-notes/v1.0.0.md).
+Download [Uplink 1.0.1](https://github.com/SuperSonnix71/uplink-releases/releases/download/v1.0.1/Uplink-1.0.1.dmg) or read the [release notes](release-notes/v1.0.1.md).
+
+Version 1.0.1 fixes the installer permissions that prevented some users from opening version 1.0.0. Install this version over the old copy. Your saved connections and credentials are kept.
 
 Open the Uplink disk image, then open Uplink.pkg. The installer asks for administrator approval and places the app in `/Applications/Uplink.app`. It also adds `127.0.0.1 uplink` to the local hosts file. Existing connections and credentials are preserved during an update.
 
@@ -50,7 +52,7 @@ Settings lets you choose whether Uplink checks for updates automatically. You ca
 
 Updates use a disk image containing an Installer package. Each package installation requires administrator approval. The updater verifies the archive signature before extraction. An available update does not bypass your installation approval.
 
-Version 1.0.0 uses internal build 5. Installation of a downloaded update through Check for Updates still needs testing.
+Version 1.0.1 uses internal build 6. Installation of a downloaded update through Check for Updates still needs testing.
 
 Uplink's app source stays private. This page contains its public guide, downloads and update information.
 
